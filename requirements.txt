@@ -13,7 +13,7 @@ freeze==1.0.10
 holidays==0.9.11
 isort==4.3.21
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 LunarCalendar==0.0.9
